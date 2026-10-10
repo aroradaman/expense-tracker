@@ -1,0 +1,77 @@
+{
+  "spreadsheet_id": "1SKlTsjmB_XXH4swFjaN9KpqxoBU_ZetjMt4wsaLz8Lc",
+  "initial_backfill_days": 90,
+  "categories": [
+    "meals",
+    "snacks",
+    "desserts",
+    "beverages",
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "meat_fish_eggs",
+    "personal_care",
+    "household",
+    "health",
+    "tobacco",
+    "alcohol",
+    "fuel",
+    "other"
+  ],
+  "gog": {
+    "binary": "/usr/local/bin/gog",
+    "account": "aroradaman@gmail.com"
+  },
+  "sources": [
+    {
+      "name": "swiggy",
+      "sheet_tab": "Swiggy",
+      "gmail_filters": {
+        "from": "noreply@swiggy.in",
+        "subject_contains": [
+          "delivered"
+        ]
+      },
+      "parser": "swiggy"
+    },
+    {
+      "name": "instamart",
+      "sheet_tab": "Instamart",
+      "gmail_filters": {
+        "from": "noreply@instamart.in",
+        "subject_contains": [
+          "delivered"
+        ]
+      },
+      "parser": "instamart"
+    },
+    {
+      "name": "fuel",
+      "sheet_tab": "Fuel",
+      "parser": "rbl_card",
+      "gmail_filters": {
+        "from": "RBLAlerts@rbl.bank.in",
+        "subject_contains": [
+          "has just been swiped"
+        ]
+      },
+      "merchant_include": [
+        "FUEL",
+        "PETROL",
+        "DIESEL",
+        "FILLING",
+        "SERVICE STATION",
+        "PETROLEUM",
+        "HPCL",
+        "IOCL",
+        "BPCL",
+        "INDIAN OIL",
+        "INDIANOIL",
+        "SHELL",
+        "NAYARA",
+        "JIO BP",
+        "JIO-BP"
+      ]
+    }
+  ]
+}

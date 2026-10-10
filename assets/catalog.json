@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Badam Milk",
+    "category": "beverages",
+    "raw": [
+      "Badam Milk"
+    ]
+  },
+  {
+    "name": "Chai",
+    "category": "beverages",
+    "raw": [
+      "Ginger Chai - Uniflask (Serves 1-2)",
+      "Ginger Lemon Chai Flask",
+      "Ginger Tea"
+    ]
+  },
+  {
+    "name": "Coca-Cola",
+    "category": "beverages",
+    "raw": [
+      "Coca-Cola 475 ml bottle",
+      "Coca-Cola Zero Sugar Diet Drink"
+    ]
+  },
+  {
+    "name": "Hot Chocolate",
+    "category": "beverages",
+    "raw": [
+      "European Hot Chocolate"
+    ]
+  },
+  {
+    "name": "Lassi",
+    "category": "beverages",
+    "raw": [
+      "Lassi",
+      "Malai Lassi"
+    ]
+  },
+  {
+    "name": "Milkshake",
+    "category": "beverages",
+    "raw": [
+      "Butterscotch Crunch Signature Ice Cream Shake",
+      "Butterscotch Ice Cream Milkshake",
+      "Butterscotch Milkshake",
+      "Butterscotch Shake",
+      "Butterscotch Thickshake",
+      "Crunchy Butterscotch Milkshake [350ml]",
+      "Ferrero Rocher Shake (400ml)",
+      "Strawberry Shake",
+      "Strawberry Signature Milkshake",
+      "White Chocolate Blondie Milk Shake"
+    ]
+  },
+  {
+    "name": "Mojito",
+    "category": "beverages",
+    "raw": [
+      "Fresh Mint Mojito"
+    ]
+  },
+  {
+    "name": "Shikanji",
+    "category": "beverages",
+    "raw": [
+      "Modinagar Shikanji"
+    ]
+  },
+  {
+    "name": "Smoothie",
+    "category": "beverages",
+    "raw": [
+      "Strawberry Smoothie"
+    ]
+  },
+  {
+    "name": "Greek Yogurt",
+    "category": "dairy_bakery",
+    "raw": [
+      "Milky Mist Greek Yogurt Cup"
+    ]
+  },
+  {
+    "name": "Basundi",
+    "category": "desserts",
+    "raw": [
+      "Basundi/rabri"
+    ]
+  },
+  {
+    "name": "Brownie",
+    "category": "desserts",
+    "raw": [
+      "Brownie Cake"
+    ]
+  },
+  {
+    "name": "Cheesecake",
+    "category": "desserts",
+    "raw": [
+      "Biscoff Cheesecake Slice"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "category": "desserts",
+    "raw": [
+      "Pistachio Cream Cookie"
+    ]
+  },
+  {
+    "name": "Cupcake",
+    "category": "desserts",
+    "raw": [
+      "Almond Caramel Cupcake"
+    ]
+  },
+  {
+    "name": "Fruit Salad",
+    "category": "desserts",
+    "raw": [
+      "Fruit Salad With Ice Cream"
+    ]
+  },
+  {
+    "name": "Ghewar",
+    "category": "desserts",
+    "raw": [
+      "Kesari Ghewar",
+      "Malai Ghewar",
+      "Mini Malai Ghewar"
+    ]
+  },
+  {
+    "name": "Gulab Jamun",
+    "category": "desserts",
+    "raw": [
+      "Gulab Jamun 2pc"
+    ]
+  },
+  {
+    "name": "Ice Cream",
+    "category": "desserts",
+    "raw": [
+      "Butterscotch Blast Gudbud Jar",
+      "Butterscotch Ice Cream",
+      "Butterscotch Icecream",
+      "Fruit Parfait Gudbud Sundae",
+      "Gudbud",
+      "Gudbud Ice Cream",
+      "Gudbud With Ice Cream",
+      "McFlurry Oreo ( M )",
+      "Nutty Butterscotch Boba Sundae",
+      "Quello (Italian Caramel)",
+      "Special Gudbud",
+      "White Chocolate Blondie Ice Cream"
+    ]
+  },
+  {
+    "name": "Pancake",
+    "category": "desserts",
+    "raw": [
+      "Belgian White Chocolate Pancake"
+    ]
+  },
+  {
+    "name": "Rasmalai",
+    "category": "desserts",
+    "raw": [
+      "Angoori Rasmalai",
+      "Rasamalai (1 Piece)",
+      "Rasmalai",
+      "Rasmalai 2 Pcs"
+    ]
+  },
+  {
+    "name": "Avocado",
+    "category": "fruits_vegetables",
+    "raw": [
+      "nectr Avocado"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "category": "fruits_vegetables",
+    "raw": [
+      "Ooty Carrot"
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "category": "fruits_vegetables",
+    "raw": [
+      "nectr English Cucumber"
+    ]
+  },
+  {
+    "name": "Pomegranate",
+    "category": "fruits_vegetables",
+    "raw": [
+      "nectr Pomegranate"
+    ]
+  },
+  {
+    "name": "Tomato",
+    "category": "fruits_vegetables",
+    "raw": [
+      "nectr Indian Tomato (Nati)"
+    ]
+  },
+  {
+    "name": "Rajma",
+    "category": "groceries",
+    "raw": [
+      "SUPREME HARVEST Rajma Kashmiri (Capparadavare)"
+    ]
+  },
+  {
+    "name": "Water Bottle",
+    "category": "household",
+    "raw": [
+      "Tupperware AQUAVIBE Motivational Bottle (1.2L, Nocturnal Sea, Leak Proof Plastic, With Straw, Carrying Strap)"
+    ]
+  },
+  {
+    "name": "Biryani",
+    "category": "meals",
+    "raw": [
+      "Bowl Rnr Special Donne Chicken Boneless Biryani",
+      "Paneer Biryani"
+    ]
+  },
+  {
+    "name": "Bread",
+    "category": "meals",
+    "raw": [
+      "Cheesy Butter Garlic",
+      "Garlic Naan",
+      "Pesto Garlic Bread",
+      "Roomali Roti",
+      "Special Butter Garlic Naan"
+    ]
+  },
+  {
+    "name": "Burger",
+    "category": "meals",
+    "raw": [
+      "Cheese Blast Spicy Paneer Delight Burger",
+      "Cheese Burger",
+      "Cottage Cheese Burger",
+      "Crispy Veg Cheese Patty Burger",
+      "Truffle Shroom Burger"
+    ]
+  },
+  {
+    "name": "Chole Bhature",
+    "category": "meals",
+    "raw": [
+      "Chole Bhature Full"
+    ]
+  },
+  {
+    "name": "Dal Makhani",
+    "category": "meals",
+    "raw": [
+      "Dal Makhani",
+      "Dal Makhni",
+      "Special Dal Makhani"
+    ]
+  },
+  {
+    "name": "Dosa",
+    "category": "meals",
+    "raw": [
+      "Butter Masala Dosa"
+    ]
+  },
+  {
+    "name": "Khichdi",
+    "category": "meals",
+    "raw": [
+      "Garlic Khichdi"
+    ]
+  },
+  {
+    "name": "Kulcha",
+    "category": "meals",
+    "raw": [
+      "Aloo Onion Kulcha",
+      "Malai Kulcha Served With White Butter, Dal Makhani & Tomato Murabba"
+    ]
+  },
+  {
+    "name": "Maggi",
+    "category": "meals",
+    "raw": [
+      "Baked Cheese Maggie",
+      "Butter Maggi",
+      "Cheezy Garlic - Made with Maggi®",
+      "Classic Maggi",
+      "Classic Maggi Noodles",
+      "Classic Masala Maggi",
+      "Classic with Butter - Made with Maggi®",
+      "Masala Maggi",
+      "Plain Maggi ( Serves 1 )"
+    ]
+  },
+  {
+    "name": "McDonald's Big Spicy Paneer Wrap",
+    "category": "meals",
+    "raw": [
+      "McDonald's Big Spicy Paneer Wrap"
+    ]
+  },
+  {
+    "name": "Noodles",
+    "category": "meals",
+    "raw": [
+      "Veg Burnt Garlic Noodles",
+      "Veg Chinese Hakka Noodles - Half (500 ml)"
+    ]
+  },
+  {
+    "name": "Paneer Curry",
+    "category": "meals",
+    "raw": [
+      "Nawabi Paneer Lababdar Parotta Bowl",
+      "Paneer Peshawari Masala"
+    ]
+  },
+  {
+    "name": "Pasta",
+    "category": "meals",
+    "raw": [
+      "Maccheroni Ai Formaggi - Veg (Del)",
+      "Spinach & Ricotta Ravioli (7 pieces)"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "category": "meals",
+    "raw": [
+      "Overloaded Veggies Flatzz Pizza",
+      "Spinach & Ricotta cheese",
+      "Veggie Supreme"
+    ]
+  },
+  {
+    "name": "Rajma Chawal",
+    "category": "meals",
+    "raw": [
+      "Rajma Chawal Rice Bowl (Serves 1)"
+    ]
+  },
+  {
+    "name": "Rice",
+    "category": "meals",
+    "raw": [
+      "Classic Fried Rice - Veg (Serves 1-2)",
+      "Ghee Rice",
+      "Mushroom Fried Rice",
+      "Veg Fried Rice"
+    ]
+  },
+  {
+    "name": "Roll",
+    "category": "meals",
+    "raw": [
+      "Cheese Melt Paneer Roll",
+      "Paneer Paratha Roll",
+      "Paneer Tikka Masala Roll"
+    ]
+  },
+  {
+    "name": "Sandwich",
+    "category": "meals",
+    "raw": [
+      "Bombay Masala Cheese Grill Sandwich ( Serves 1 )",
+      "Bombay Sandwich",
+      "Bombay Special Cheese Sandwich",
+      "BOMBAY VEG GRILL SANDWICH",
+      "Club Sandwich (veg)",
+      "CORN N CHEESE SANDWICH",
+      "Mumbai Masala Sandwich",
+      "Mumbai Masala Sandwich With Cheese",
+      "Veg Cheese Grilled Sandwich",
+      "Veg Patty Grilled Sandwich"
+    ]
+  },
+  {
+    "name": "Soup",
+    "category": "meals",
+    "raw": [
+      "Cream Of Mushroom Soup",
+      "Veg Manchow Soup",
+      "Veg Manchow Soup with Crispy Noodles"
+    ]
+  },
+  {
+    "name": "Soya Chaap",
+    "category": "meals",
+    "raw": [
+      "Kalimirch Malai Chaap",
+      "Malai Soya Chaap",
+      "Special Afghani Chaap",
+      "Special Stuffed Chaap"
+    ]
+  },
+  {
+    "name": "Wrap",
+    "category": "meals",
+    "raw": [
+      "Big Spicy Paneer Wrap",
+      "Mushroom, Cheese, Corn & Spinach Wrap",
+      "Paneer K-Crunch Wrap"
+    ]
+  },
+  {
+    "name": "Bajji",
+    "category": "snacks",
+    "raw": [
+      "Mangalore bajji"
+    ]
+  },
+  {
+    "name": "Bhujia",
+    "category": "snacks",
+    "raw": [
+      "Bikaneri Bhujia 400G"
+    ]
+  },
+  {
+    "name": "Bun Maska",
+    "category": "snacks",
+    "raw": [
+      "Bun Maska Jam"
+    ]
+  },
+  {
+    "name": "Chilli Paneer",
+    "category": "snacks",
+    "raw": [
+      "Dragon paneer",
+      "Paneer Chilli"
+    ]
+  },
+  {
+    "name": "Chutney",
+    "category": "snacks",
+    "raw": [
+      "Pudina Chutney"
+    ]
+  },
+  {
+    "name": "Crispy Corn",
+    "category": "snacks",
+    "raw": [
+      "Crispy Corn Chaat"
+    ]
+  },
+  {
+    "name": "Croissant",
+    "category": "snacks",
+    "raw": [
+      "Butter Croissant"
+    ]
+  },
+  {
+    "name": "Dahi Ke Sholey",
+    "category": "snacks",
+    "raw": [
+      "Dahi Ke Sholey"
+    ]
+  },
+  {
+    "name": "Kachori",
+    "category": "snacks",
+    "raw": [
+      "Alu Pyaaz Kachori 2 pcs",
+      "Onion Kachori",
+      "Onion Kachori (2 Pc)"
+    ]
+  },
+  {
+    "name": "Kebab",
+    "category": "snacks",
+    "raw": [
+      "Dahi De Kebab",
+      "Dahi Ke Kebab",
+      "Dahi Ke Kebabs",
+      "Paneer Subz Dhungar Tawa Kebab",
+      "Panner Dhudiya Kebab"
+    ]
+  },
+  {
+    "name": "Manchurian",
+    "category": "snacks",
+    "raw": [
+      "Mushroom Manchurian (dry)"
+    ]
+  },
+  {
+    "name": "Momos",
+    "category": "snacks",
+    "raw": [
+      "Corn & Cheese Fried Momo",
+      "Corn & Cheese Steam Momo.",
+      "New York Cheese And Chili Oil",
+      "Tandoori Momos",
+      "Veg Momos",
+      "Veg Momos (8 Pcs)",
+      "Veg Pahari Fresh Pan Fried Momo in Tomato Garlic Sauce",
+      "Veg Tandoori Momos (3pcs) + Veg Momos (3pcs)",
+      "Vegetable Dimsum"
+    ]
+  },
+  {
+    "name": "Onion Laccha",
+    "category": "snacks",
+    "raw": [
+      "Onion Laccha"
+    ]
+  },
+  {
+    "name": "Paneer 65",
+    "category": "snacks",
+    "raw": [
+      "Paneer 65"
+    ]
+  },
+  {
+    "name": "Raita",
+    "category": "snacks",
+    "raw": [
+      "Raita"
+    ]
+  },
+  {
+    "name": "Samosa",
+    "category": "snacks",
+    "raw": [
+      "Corn & Cheese Samosa (1 Pc)",
+      "Noodle Samosa (1pc)",
+      "Samosa (2 Pc)"
+    ]
+  },
+  {
+    "name": "Tikka",
+    "category": "snacks",
+    "raw": [
+      "Chicken Tikka Trio",
+      "Mushroom Tikka"
+    ]
+  },
+  {
+    "name": "Vada Pav",
+    "category": "snacks",
+    "raw": [
+      "Spicy Cheese Vada Pav"
+    ]
+  },
+  {
+    "name": "Veg Kurkuri",
+    "category": "snacks",
+    "raw": [
+      "Veg Kurkuri"
+    ]
+  },
+  {
+    "name": "Veggie Fingers",
+    "category": "snacks",
+    "raw": [
+      "Veggie Fingers (6 Pcs)"
+    ]
+  }
+]
